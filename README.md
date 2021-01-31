@@ -1,3 +1,3 @@
-# CS255-Timetable-scheduling
-Artificial intelligence coursework on timetable scheduling
+#Timetable-scheduling
+Artificial intelligence project on timetable scheduling
 
